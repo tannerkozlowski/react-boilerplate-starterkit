@@ -1,4 +1,4 @@
-# HOPMarket
+# React-boilerplate-starterkit
 
 ## Development
 
